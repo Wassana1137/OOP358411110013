@@ -1,4 +1,3 @@
-
 package MidTerm;
 import java.util.Scanner;
 public class TexCalculater {
